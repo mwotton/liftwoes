@@ -1,10 +1,9 @@
-resolver: lts-6.17
-# resolver: nightly-2016-09-13
+# resolver: lts-6.17
+resolver: nightly-2016-09-13
 
 packages:
 - '.'
 extra-deps:
-- th-lift-instances-0.1.10
 - template-haskell-2.11.0.0
 flags: {}
 
