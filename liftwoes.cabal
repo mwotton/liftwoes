@@ -18,8 +18,8 @@ library
   exposed-modules:     Lib
                        Instances
   build-depends:       base >= 4.7 && < 5
-                      ,th-lift-instances
-                      ,template-haskell
+                     , th-lift-instances
+                     , template-haskell
                      , time
                      , text
                       ,containers

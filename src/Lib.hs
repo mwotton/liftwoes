@@ -7,7 +7,6 @@ import qualified Data.Set                   as HS
 import qualified Data.Text                  as T
 import qualified Data.Text.IO               as T
 import           Data.Time
--- import           Instances.TH.Lift
 import           Instances
 import           Language.Haskell.TH.Syntax
 
