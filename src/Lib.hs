@@ -3,7 +3,7 @@
 module Lib where
 
 import           Data.Data
-import qualified Data.Set                   as HS
+import qualified Data.HashSet               as HS
 import qualified Data.Text                  as T
 import qualified Data.Text.IO               as T
 import           Data.Time
